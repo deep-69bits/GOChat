@@ -1,13 +1,10 @@
 # GOChat
 
-Go Chat is a much-needed one-stop solution for all your educational needs. 
+
 ## Description
-On one page, you get the lectures, recordings, and E-Books of all the subjects like DBMS, Web Development, C Programming, Unix, and PC. It is also connected to youtube videos of these subjects for reference.
+Go chat:  This is an important addition to the go classes website because, in today’s world, nobody wants to open too many tabs for different purposes. Talk to your friends, clear your doubts, have healthy discussions, and a lot more on the same page. 
 
-Project have a login and registerations page which will store data in your mongodb local server.
-
-Project also include google search api which help students to search thing while watching lectures
-
+To make this page, we have used Socket.io which is a bidirectional and low latency communication platform. Along with this, we have also used Node.js, javascript, CSS, and HTML.
 
 
 ## Built With
