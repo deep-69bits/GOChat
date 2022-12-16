@@ -51,8 +51,7 @@ or
     ```
 ## Authors  
 * [@deep](https://github.com/deep-69bits/)
-* [@shweta](https://github.com/shwet-aaa)
-* [@palashb](https://github.com/palashb01)
+
 
 
 
